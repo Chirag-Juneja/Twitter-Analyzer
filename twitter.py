@@ -3,7 +3,6 @@ import time
 import csv
 from textblob import TextBlob 
 
-
 consumer_key = ''
 consumer_secret = ''
 
