@@ -1,3 +1,6 @@
+# python virtualenv
 /venv
+# vscode settings
 /.vscode
+# api tokens
 tokens.json
